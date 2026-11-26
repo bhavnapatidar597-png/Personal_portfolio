@@ -1,2 +1,11 @@
 # Personal_portfolio
-Personal portfolio website built with HTML, CSS, and JavaScript showcasing projects, teamwork, and background.
+# Personal Portfolio
+
+Meri personal portfolio website ka code yahan hai.
+
+🔗 **Live Website:** https://bhavnapatidar597-png.github.io/Personal_portfolio/
+
+## Skills / Tools
+- HTML, CSS, JavaScript
+- Responsive Design
+- Git & GitHub
